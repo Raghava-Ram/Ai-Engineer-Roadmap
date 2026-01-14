@@ -1,7 +1,9 @@
 # AI Engineer Roadmap
 
 A comprehensive learning path and resource collection for aspiring AI Engineers.
+## Live Demo
 
+[[click here](https://ai-engineer-roadmap-eight.vercel.app/)]
 ## Features
 
 - Structured learning path for AI Engineering
@@ -66,8 +68,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This project can be deployed to any static hosting service that supports Next.js applications, such as Vercel, Netlify, or Cloudflare Pages.
 
-## Live Demo
 
-[[Deployed with Vercel](https://ai-engineer-roadmap-eight.vercel.app/)]
 
 
